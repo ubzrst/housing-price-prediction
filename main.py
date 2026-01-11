@@ -5,7 +5,6 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.metrics import mean_squared_error, r2_score
-from sklearn.preprocessing import LabelEncoder
 import os
 
 class HousingDataPreprocessor:
