@@ -31,5 +31,4 @@ The core of the prediction engine is a Gradient Boosted Trees regressor. Gradien
     python main.py
     ```
 
-3.  View Results
-    The script will output evaluation metrics to the console and save visualizations to `housing_analysis.png`.
+3.  The script will output evaluation metrics to the console and save visualizations to `housing_analysis.png`.
