@@ -1,5 +1,7 @@
 # Housing Price Prediction Model
 
+>[!INFO] This will be converted to a notebook in the future
+
 This project implements a machine learning pipeline to predict housing prices based on various features such as area, number of bedrooms, and location.
 
 The core of the prediction engine is a Gradient Boosted Trees regressor. Gradient Boosting is an ensemble technique that builds models sequentially, with each new model attempting to correct the errors of the previous ones. This results in a powerful predictor capable of capturing complex non-linear relationships in the data.
